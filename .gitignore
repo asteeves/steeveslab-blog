@@ -1,7 +1,6 @@
 *~
 *.pyc
 output
-pelican-octopress-theme
 *.pid
 _build
 _nb_header.html
