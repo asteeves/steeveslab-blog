@@ -2,7 +2,6 @@
 *.pyc
 output
 pelican-octopress-theme
-pelican-plugins
 *.pid
 _build
 _nb_header.html
